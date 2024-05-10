@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @dudulecode
-- 👀 I’m interested in programmation and geography
-- 🌱 I’m currently learning ???
-- 📫 How to reach me: nathancarmeille101@gmail.com
-- 😄 Pronouns: he/him
+```javascript
+const abt_me = {
+  "name": "DuduleCode",
+  "location": "Agen, France",
+  "programming-languages": ["Python", "JavaScript", "HTML", "CSS", "JS", "VBScript", "Batch"],
+  "websites": ["dudulecode.github.io"],
 
-<!---
-dudulecode/dudulecode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  "socials": {
+    "GitHub": "@dudulecode",
+    "TikTok": "@aquitaine.maps",
+    "Instagram": "@aquitaine.maps"
+  },
+
+  "contact": {
+    "discord-server": "",
+    "emails": ["nathancarmeille101@gmail.com"]
+  }
+}
+```
